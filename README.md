@@ -1,6 +1,5 @@
-===========================================================================================
-                    Évaluation Technique – Développement Backend & API 
-============================================================================================
+# =======================Évaluation Technique – Développement Backend & API=====================
+                     
 
 
         Présentation du Projet
@@ -15,11 +14,8 @@
         * Gérer l’authentification avec JWT
 
 
-=============================================================================================
-                                STACK TECHNIQUE
-=============================================================================================
-
-
+# ====================== STACK TECHNIQUE ================
+                               
 
                 NestJS : Framework Node.js pour construire des applications serveur modulaires et maintenables
 
@@ -36,9 +32,7 @@
                 bcrypt : Hachage des mots de passe
 
 
-===========================================================================================
-                            Installation & Démarrage
-===========================================================================================
+# ================= Installation & Démarrage =================================
 
 1️⃣ Prérequis
 
@@ -49,7 +43,7 @@
 
 2️⃣ Cloner le projet
 
-# git clone 
+# git  
 
 # cd <nom_du_projet>
 
