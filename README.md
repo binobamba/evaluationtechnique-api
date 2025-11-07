@@ -80,7 +80,7 @@ Créer un fichier  .env à la racine du projet :
 
 ```bash
 # unit tests
-$ npm run test
+$ npm run test --passWithNoTests
 
 # e2e tests
 $ npm run test:e2e
